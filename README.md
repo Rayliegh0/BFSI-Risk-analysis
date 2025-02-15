@@ -92,25 +92,7 @@ The project aims to:
   - `Matplotlib`, `Seaborn` for data visualization.
   - `scikit-learn` for predictive modeling.
 - **Tools:** Jupyter Notebook, GitHub for version control.
-
----
-
-## Installation
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/repo-name.git
-    cd repo-name
-    ```
-2. Create a virtual environment and activate it:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
-3. Install required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
+  
 ---
 
 ## Usage
